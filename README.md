@@ -53,3 +53,7 @@ I do not make any money off of this project. This is solely a hobby experiment f
 The material presented here is the original creation of the contributers, intended for use with the Eberron setting by [Wizards of the Coast](https://company.wizards.com/en). This material is not official and is not endorsed by Wizards of the Coast.
 
 Dungeons & Dragons, Eberron, D&D, Dungeon Master, d20, d20 System, Wizards of the Coast, Player's Handbook, Dungeon Master's Guide, and Monster Manual and their respective logos are trademarks of Wizards of the Coast, Inc., in the U.S.A. and other countries. All Wizards characters, character names, and the distinctive likenesses thereof are trademarks of Wizards of the Coast, Inc.
+
+## Credits
+
+- Eberron Texture: https://www.reddit.com/r/Eberron/comments/ermt2e/eberron_reimagined/
