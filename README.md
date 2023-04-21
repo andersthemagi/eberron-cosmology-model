@@ -28,7 +28,7 @@ TBD
 
 ## Disclaimer
 
-I do not make any money off of this project. This is solely a hobby experiment for the purposes of exploring modern frameworks and technologies in a fun and interesting medium. 
+I do not make any money off of this project. This is solely a hobby experiment for the purposes of exploring modern frameworks and technologies in a fun and interesting setting. 
 
 The material presented here is the original creation of the contributers, intended for use with the Eberron setting by [Wizards of the Coast](https://company.wizards.com/en). This material is not official and is not endorsed by Wizards of the Coast.
 
