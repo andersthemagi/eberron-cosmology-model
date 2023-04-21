@@ -13,6 +13,10 @@ Credit: [*this World Anvil*](https://www.worldanvil.com/w/eberron-drelisa/a/moon
 ![Planar Cosmology](https://static.wikia.nocookie.net/eberron/images/0/00/3E_Cosmology.jpg/revision/latest?cb=20230219030830)
 Credit: [Cosmology | Eberron Wiki | Fandom](https://eberron.fandom.com/wiki/Cosmology)
 
+## Live Model
+
+Once this project is in a serviceable state, I will include a link to the website to play around with the model. For now, you can clone and run the project on your local machine using the instructions outlined later in this README. 
+
 ## Technologies Used
 
 * HTML / CSS
@@ -22,9 +26,25 @@ Credit: [Cosmology | Eberron Wiki | Fandom](https://eberron.fandom.com/wiki/Cosm
 * @react-three/fiber
 * Webpack
 
-## Installation
+## Installation and Setup Instructions
 
-TBD
+Clone down this repository. You will need [`node`](https://nodejs.org/en) and [`npm`](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) installed globally on your machine.  
+
+Installation:
+
+`npm install`  
+
+To Run Test Suite:  
+
+`npm test`  
+
+To Start Server:
+
+`npm start`  
+
+To Visit App:
+
+`localhost:6969`  
 
 ## Disclaimer
 
