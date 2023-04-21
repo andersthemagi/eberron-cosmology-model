@@ -57,3 +57,4 @@ Dungeons & Dragons, Eberron, D&D, Dungeon Master, d20, d20 System, Wizards of th
 ## Credits
 
 - Eberron Texture: https://www.reddit.com/r/Eberron/comments/ermt2e/eberron_reimagined/
+- Solar system functionality: https://codesandbox.io/s/animated-solarsystem-with-react-three-fiber-2-3-ow80k?file=/src/App.js
