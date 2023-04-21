@@ -1,8 +1,18 @@
 import React from "react";
+import { Canvas } from "@react-three/fiber";
 
 function App() {
     return (
-        <h1>Eberron Cosmology Model</h1>
+        <div>
+            <h1>Eberron Cosmology Model</h1>
+            <Canvas>
+                <pointLight position={[10, 10, 10]} />
+                <mesh>
+                <sphereGeometry />
+                <meshStandardMaterial color="hotpink" />
+                </mesh>
+            </Canvas>
+        </div>
     );
 };
 
